@@ -1,0 +1,172 @@
+{
+	"META": {
+		"repoName": "Scarlet Test Repo",
+		"repoIcon": "https://usescarlet.com/img/icon.png"
+	},
+	"Tweaked": [{
+		"name": "YouTube Reborn",
+		"version": "16.46.5",
+		"icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/f9/3f/9b/f93f9b56-317c-2d1f-224b-e49b6eb90adc/logo_youtube_color-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+		"down": "https://resources.usescarlet.com/repo/IPAs/YouTube.ipa",
+		"dev": "Sarahh12099",
+		"category": "Tweaked Apps",
+		"changelog": "We fixed the tubes that bring your videos - and some bugs too.\n- Added back old quality picker\n- Added back dislike counter\n- Added PIP",
+		"description": "True ad-less YouTube...",
+		"bundleID": "com.google.ios.youtube",
+		"appstore": "com.google.ios.youtube",
+		"debs": [
+			"https://usescarlet.com/debs/YouTubeReborn.dylib",
+                        "https://usescarlet.com/debs/YTClassicVideoQuality.dylib",
+                        "https://usescarlet.com/debs/YouTubeDislikesReturn.dylib",
+                        "https://usescarlet.com/debs/YouPiP.dylib"
+                        "https://ytproapp.github.io/dylib/zCercubeBoard.dylib",
+                        "https://ytproapp.github.io/dylib/Cercube.dylib",
+		],
+		"screenshots": [
+			"https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/c6/57/01/c6570194-e19c-2628-4a53-89542d5428ff/mzl.tvydhezj.png/460x0w.webp",
+			"https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/f8/de/90/f8de901d-82b9-cff6-b950-835d3b4108ce/mzl.odnjrimv.png/460x0w.png",
+			"https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/17/1f/23/171f2317-a9c4-0188-57e0-0b06ecee2cc0/mzl.nfxgxmbt.png/460x0w.webp"
+		],
+		"contact": {
+			"web": "https://repo.twickd.com",
+			"twitter": "https://twitter.com/twickdrepo"
+		}
+	}, {
+		"name": "iPogo",
+		"version": "0.223.0",
+		"icon": "https://usescarlet.com/icons/ipogo.png",
+		"down": "https://ipogo.app/download/ipogo-2.2.8.ipa",
+		"category": "Tweaked Apps",
+		"description": "With iPogo you get a full set of tools to help you be the best. iPogo is a Simple, Powerful and Intuitive App.",
+		"screenshots": [
+		"https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/a6/e8/b4/a6e8b487-acdd-444e-4f6c-7a013ec184d4/417050bb-74d9-4d82-aaad-26c24b2f9c26_EN_S1_iOS_6.5.png/230x0w.webp",
+		"https://is2-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/62/72/e8/6272e88b-c30b-240b-0c08-4ca65d6e6195/638f21d7-01eb-4a94-9228-eae0afcea70a_EN_S2_iOS_6.5.png/230x0w.webp",
+		"https://is3-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/0d/8f/11/0d8f11ae-a184-b978-d6f9-4361050daa02/65d1dd34-0861-491c-843b-387b210aab2e_EN_S3_iOS_6.5.png/230x0w.webp"
+		],
+		"bundleID": "com.nianticlabs.pokemongo",
+		"appstore": "com.nianticlabs.pokemongo"
+	}, {
+		"name": "SpooferX",
+		"version": "0.223.0",
+		"icon": "https://usescarlet.com/icons/ipogo.png",
+		"down": "https://cdn.spooferx.com/SpooferX-0.223.0-0.47.ipa",
+		"category": "Tweaked Apps",
+		"changelog": "- Added Support for Latest version\n- Crash Fix on Raid Encounter\n- Bug Fixes",
+		"description": "SpooferX for Pokémon GO is an enhanced edition of the Pokémon GO app, adding a joystick and with free teleport ! It also include a lot of others features : IV checking, enhanced throw, auto walking and GPX, fast catch trick, a live feed and even a map with everything around you !",
+		"screenshots": [
+		"https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/a6/e8/b4/a6e8b487-acdd-444e-4f6c-7a013ec184d4/417050bb-74d9-4d82-aaad-26c24b2f9c26_EN_S1_iOS_6.5.png/230x0w.webp",
+		"https://is2-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/62/72/e8/6272e88b-c30b-240b-0c08-4ca65d6e6195/638f21d7-01eb-4a94-9228-eae0afcea70a_EN_S2_iOS_6.5.png/230x0w.webp",
+		"https://is3-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/0d/8f/11/0d8f11ae-a184-b978-d6f9-4361050daa02/65d1dd34-0861-491c-843b-387b210aab2e_EN_S3_iOS_6.5.png/230x0w.webp"
+		],
+		"bundleID": "com.nianticlabs.pokemongo",
+		"appstore": "com.nianticlabs.pokemongo"
+	}, {
+		"name": "Sposify++",
+		"version": "8.6.42",
+		"icon": "https://usescarlet.com/icons/spotify.png",
+		"down": "https://resources.usescarlet.com/repo/IPAs/Spotify.ipa",
+		"category": "Tweaked Apps",
+		"description": "Sposify and Spotilife tweak merged into one app",
+		"bundleID": "com.spotify.client",
+		"appstore": "com.spotify.client",
+		"debs": [
+			"https://usescarlet.com/debs/Spotilife.dylib",
+			"https://usescarlet.com/debs/Sposify.dylib",
+			"https://usescarlet.com/debs/SposifyFix.dylib"
+		],
+		"changelog":"- Updated Spotilife and Sposify to latest version\n- Applied SposifyFix patch"
+	}, {
+		"name": "Instagram Rhino",
+		"version": "187.0",
+		"icon": "https://iosninja.io/img/ipas/instagram_rhino.png",
+		"down": "https://resources.usescarlet.com/repo/IPAs/instagramRhino.ipa",
+		"category": "Tweaked Apps",
+		"bundleID": "com.rhino.InstagramApp",
+		"appstore": "com.burbn.instagram"
+	}, {
+		"name": "VideoStar",
+		"version": "8.3.2",
+		"icon": "https://usescarlet.com/icons/videostar.png",
+		"down": "https://resources.usescarlet.com/repo/IPAs/videostar.ipa",
+		"category": "Tweaked Apps",
+ "debs": [
+			"https://usescarlet.com/debs/videostar.dylib"
+		],
+		"bundleID": "com.frontierdesign.videostar",
+		"appstore": "com.frontierdesign.videostar"
+	}],
+	"Jailbreaks": [{
+			"name": "Taurine",
+			"version": "1.1.1",
+			"icon": "https://cdn.discordapp.com/attachments/752890955236901055/829728600446074930/Taurine.png",
+			"down": "https://github.com/Odyssey-Team/Taurine/releases/download/1.1.1/Taurine-1.1.1.ipa",
+			"dev": "Odyssey-Team",
+			"category": "Jailbreaks",
+			"description": "Time to get amped.",
+			"bundleID": "com.odysseyteam.taurine",
+			"screenshots": [
+				"https://taurine.app/assets/images/iphones.png",
+				"https://taurine.app/assets/images/iphone.png"
+			],
+			"contact": [
+				"https://taurine.app/",
+				"https://twitter.com/OdysseyTeam_"
+			]
+		},
+		{
+			"name": "Odyssey",
+			"version": "1.4.1",
+			"icon": "https://theodyssey.dev/assets/images/icon.png",
+			"down": "https://github.com/Odyssey-Team/Odyssey/releases/download/1.4.1/Odyssey-1.4.1.ipa",
+			"dev": "Odyssey-Team",
+			"category": "Jailbreaks",
+			"bundleID": "org.coolstar.odyssey",
+			"description": "A new jailbreak for a new era.",
+			"screenshots": [
+				"https://theodyssey.dev/assets/images/iphones.png",
+				"https://theodyssey.dev/assets/images/iphone.png"
+			],
+			"contact": [
+				"https://theodyssey.dev/",
+				"https://twitter.com/OdysseyTeam_"
+			]
+		},
+		{
+			"name": "unc0ver",
+			"version": "7.0.2",
+			"icon": "https://cdn.discordapp.com/attachments/752890955236901055/829731825802018896/unc0ver.png",
+			"down": "https://unc0ver.dev/downloads/7.0.2/11c3f7b0eea806ba3cac975f74dcc2cc4e916bac/unc0ver_Release_7.0.2.ipa",
+			"dev": "unc0ver-Team",
+			"category": "Jailbreaks",
+			"bundleID": "science.xnu.undecimus",
+			"banner": "https://resources.usescarlet.com/Banners/unc0verbanner.jpg",
+			"screenshots": [
+				"https://resources.usescarlet.com/Screenshots/unc0verpg1.png",
+				"https://resources.usescarlet.com/Screenshots/unc0verpg2.png",
+				"https://resources.usescarlet.com/Screenshots/unc0verpg3.png"
+			],
+			"contact": [
+				"https://unc0ver.dev/",
+				"https://twitter.com/pwn20wnd"
+			]
+		}
+	],
+	"Hacked Games": [],
+	"Emulators": [{
+		"name": "iNDS",
+		"version": "1.10.8",
+		"icon": "https://iosninja.io/img/ipas/inds.png",
+		"down": "https://github.com/iNDS-Team/iNDS/releases/download/v1.10.8/iNDS.ipa",
+		"category": "Emulators",
+		"description": "",
+		"bundleID": "net.nerd.iNDS"
+	}, {
+		"name": "Delta iPac",
+		"version": "1",
+		"icon": "https://media.idownloadblog.com/wp-content/uploads/2017/05/Delta-Thumb-New.png",
+		"down": "https://github.com/ianclawson/Delta-iPac-Edition/releases/download/1.0.1/Delta-iPac.ipa",
+		"category": "Emulators",
+		"description": "A Fan-build of Delta, an all-in-one classic video game emulator for non-jailbroken iOS devices",
+		"bundleID": "com.ianclawson.DeltaPacEdition"
+	}]
+}
